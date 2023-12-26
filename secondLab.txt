@@ -1,6 +1,0 @@
-1-git checkout -b dev
-1.2-touch dev.txt
-2-git checkout -b test
-2.2-touch test.pdf
-
-
